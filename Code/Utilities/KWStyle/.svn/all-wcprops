@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/NAMICSandBox/!svn/ver/6436/trunk/JPEG2000ImageIO/Utilities/KWStyle
+END
+KWStyle.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/NAMICSandBox/!svn/ver/6423/trunk/JPEG2000ImageIO/Utilities/KWStyle/KWStyle.cmake
+END
+ITKHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/NAMICSandBox/!svn/ver/6423/trunk/JPEG2000ImageIO/Utilities/KWStyle/ITKHeader.h
+END
+ITKOverwrite.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/NAMICSandBox/!svn/ver/6436/trunk/JPEG2000ImageIO/Utilities/KWStyle/ITKOverwrite.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/NAMICSandBox/!svn/ver/6423/trunk/JPEG2000ImageIO/Utilities/KWStyle/CMakeLists.txt
+END
+ITKFiles.txt.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/NAMICSandBox/!svn/ver/6423/trunk/JPEG2000ImageIO/Utilities/KWStyle/ITKFiles.txt.in
+END
+ITK.kws.xml.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/NAMICSandBox/!svn/ver/6423/trunk/JPEG2000ImageIO/Utilities/KWStyle/ITK.kws.xml.in
+END
